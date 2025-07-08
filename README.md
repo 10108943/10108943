@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**10108943/10108943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Arjawan Joiya! 👋
 
-Here are some ideas to get you started:
+💻 Self-taught Developer | 💡 Learning HTML, CSS, JavaScript  
+🚀 3 Completed Projects: Test Repo, Portfolio, Hover Buttons  
+🎯 Now building real-world websites & fun mini apps  
+💖 Passion: Coding, Learning & Helping others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- HTML5, CSS3
+- JavaScript (Basics & DOM)
+- GitHub Pages
+- Responsive Design
+
+---
+
+### 🔗 My Projects
+
+- 🧪 [Test Repo (HTML + CSS Classes)](https://10108943.github.io/test-repo/)
+- 🖼️ [Portfolio Website](https://10108943.github.io/portfolio/)
+- 🎨 [Hover Button Effects](https://10108943.github.io/hover-buttons/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10108943&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10108943&layout=compact)
