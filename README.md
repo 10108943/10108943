@@ -18,11 +18,7 @@
 
 ### 🔗 My Projects
 
-- 🧪 [Test Repo (HTML + CSS Classes)](https://10108943.github.io/test-repo/)
-- 🖼️ [Portfolio Website](https://10108943.github.io/portfolio/)
-- 🎨 [Hover Button Effects](https://10108943.github.io/hover-buttons/)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10108943&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10108943&layout=compact)
+- 🧪 [Test Repo (HTML + CSS Classes)](https://arjawanjoiya-dev.github.io/test-repo/)
+- 🖼️ [Portfolio Website](https://arjawanjoiya-dev.github.io/portfolio/)
+- 🎨 [Hover Button Effects](https://arjawanjoiya-dev.github.io/hover-buttons/)
+- 🌐 [Demo Website](https://arjawanjoiya-dev.github.io/demo-website/)
